@@ -1,4 +1,5 @@
 ProsjektIT
+
 Dette er et skoleprosjekt der jeg har laget en enkel nettsiden som fungerer som et forum. Brukere kan registrere seg, logge inn og sende eller lese meldinger.
 
 Funksjoner:
